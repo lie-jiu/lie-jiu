@@ -12,7 +12,6 @@
 
 - 🏆 [OpenList](https://github.com/OpenListTeam/OpenList-Worker) 社区贡献者：PR 已被合并
 - 🔭 目前在做 **WeKit 已读追踪** 与 **死了吗 SiLeMa**（Dead Man's Switch）
-- 🤖 正在调教多智能体：LangGraph 编排的「赣菜 AI」五人后厨班子
 - ☁️ 偏爱 Serverless 与边缘部署：Cloudflare Workers / EdgeOne
 - 🔧 也造过一些校园小工具：电费查询、校园网登录、导航页
 - 🌱 今年目标：少囤 idea，多写代码
@@ -61,12 +60,9 @@
 
 | 项目 | 简介 |
 |------|------|
-| [**OpenList-Worker**](https://github.com/lie-jiu/OpenList-Worker) | OpenList 的 Service Worker 后端（WIP）· 社区贡献者，PR 已合并 |
-| [**GKI_KernelSU_SUSFS**](https://github.com/lie-jiu/GKI_KernelSU_SUSFS) | 自编译 Android GKI 内核：KernelSU / SukiSU + SUSFS |
 | [**WeKit 已读追踪**](https://github.com/lie-jiu/wekit-read-receipts-server) | 微信读书已读回执服务端 · TypeScript · 活跃开发中 |
 | [**死了吗 SiLeMa**](https://github.com/lie-jiu/silema) | Dead Man's Switch 打卡与通知系统 · 跑在 Cloudflare 上 |
 | [**FFmpegHub**](https://github.com/lie-jiu/FFmpegHub) | FFmpeg Web UI · 轻量级媒体处理工具 |
-| [**墨酒 Mo Jiu**](https://github.com/lie-jiu/mojiu) | 一个 AI Agent 的灵魂工程 |
 
 ## 📊 GitHub 数据
 

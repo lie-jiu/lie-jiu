@@ -10,7 +10,7 @@
 
 ## 🥃 关于我
 
-- 🏆 [OpenListTeam](https://github.com/OpenListTeam) 组织成员
+- 🏆 <a href="https://github.com/OpenListTeam"><img src="https://avatars.githubusercontent.com/u/215780325?s=48&v=4" width="22" height="22" alt="OpenListTeam"/> <b>OpenListTeam</b></a> 组织成员
 - 🔭 目前在做 **WeKit 已读追踪** 与 **死了吗 SiLeMa**（Dead Man's Switch）
 - ☁️ 偏爱 Serverless 与边缘部署：Cloudflare Workers / EdgeOne
 - 🔧 也造过一些校园小工具：电费查询、校园网登录、导航页

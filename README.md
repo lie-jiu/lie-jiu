@@ -58,40 +58,21 @@
 
 ## 🚀 代表项目
 
-<p align="center">
-  <a href="https://github.com/lie-jiu/wekit-read-receipts-cf-workers">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lie-jiu&repo=wekit-read-receipts-cf-workers&theme=radical&hide_border=true" alt="WeKit CF Workers"/>
-  </a>
-  <a href="https://github.com/lie-jiu/wekit-read-receipts-server">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lie-jiu&repo=wekit-read-receipts-server&theme=radical&hide_border=true" alt="WeKit Server"/>
-  </a>
-  <a href="https://github.com/lie-jiu/silema">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lie-jiu&repo=silema&theme=radical&hide_border=true" alt="SiLeMa"/>
-  </a>
-  <a href="https://github.com/lie-jiu/FFmpegHub">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lie-jiu&repo=FFmpegHub&theme=radical&hide_border=true" alt="FFmpegHub"/>
-  </a>
-  <a href="https://github.com/lie-jiu/star-chart">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lie-jiu&repo=star-chart&theme=radical&hide_border=true" alt="star-chart"/>
-  </a>
-  <a href="https://github.com/lie-jiu/gancuisine-ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lie-jiu&repo=gancuisine-ai&theme=radical&hide_border=true" alt="gancuisine-ai"/>
-  </a>
-</p>
+| 项目 | 简介 | ⭐ |
+|------|------|:--:|
+| [**WeKit 已读追踪**](https://github.com/lie-jiu/wekit-read-receipts-cf-workers) | 微信读书已读回执服务 · Cloudflare Workers 版 | ![Stars](https://img.shields.io/github/stars/lie-jiu/wekit-read-receipts-cf-workers?style=flat-square&color=FE428E&label=%E2%AD%90) |
+| [**WeKit Server**](https://github.com/lie-jiu/wekit-read-receipts-server) | WeKit 已读追踪 · TypeScript 服务端 | ![Stars](https://img.shields.io/github/stars/lie-jiu/wekit-read-receipts-server?style=flat-square&color=FE428E&label=%E2%AD%90) |
+| [**死了吗 SiLeMa**](https://github.com/lie-jiu/silema) | Dead Man's Switch 打卡与通知系统 | ![Stars](https://img.shields.io/github/stars/lie-jiu/silema?style=flat-square&color=FE428E&label=%E2%AD%90) |
+| [**FFmpegHub**](https://github.com/lie-jiu/FFmpegHub) | FFmpeg Web UI · 轻量级媒体处理 | ![Stars](https://img.shields.io/github/stars/lie-jiu/FFmpegHub?style=flat-square&color=FE428E&label=%E2%AD%90) |
+| [**star-chart**](https://github.com/lie-jiu/star-chart) | 服务监控 · 美股分析 · 全球新闻聚合 | ![Stars](https://img.shields.io/github/stars/lie-jiu/star-chart?style=flat-square&color=FE428E&label=%E2%AD%90) |
+| [**赣菜 AI**](https://github.com/lie-jiu/gancuisine-ai) | LangGraph 编排的多智能体餐厅系统 | ![Stars](https://img.shields.io/github/stars/lie-jiu/gancuisine-ai?style=flat-square&color=FE428E&label=%E2%AD%90) |
 
 ## 📊 GitHub 数据
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=lie-jiu&show_icons=true&hide_border=true&bg_color=00000000&title_color=FE428E&icon_color=F8D847&text_color=FFFFFF&include_all_commits=true&count_private=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=lie-jiu&show_icons=true&hide_border=true&bg_color=00000000&title_color=E85D75&icon_color=7067E0&text_color=24292F&include_all_commits=true&count_private=true" />
-    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=lie-jiu&show_icons=true&hide_border=true&bg_color=00000000&title_color=E85D75&icon_color=7067E0&text_color=24292F&include_all_commits=true&count_private=true" width="49%"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lie-jiu&layout=compact&hide_border=true&bg_color=00000000&title_color=FE428E&text_color=FFFFFF" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lie-jiu&layout=compact&hide_border=true&bg_color=00000000&title_color=E85D75&text_color=24292F" />
-    <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lie-jiu&layout=compact&hide_border=true&bg_color=00000000&title_color=E85D75&text_color=24292F" width="38%"/>
-  </picture>
+  <img src="https://img.shields.io/github/followers/lie-jiu?label=Followers&logo=github&style=flat-square&color=FE428E" alt="followers"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Flie-jiu&query=%24.public_repos&label=Repos&logo=github&style=flat-square&color=7067E0" alt="repos"/>
+  <img src="https://img.shields.io/badge/Since-2023-7067E0?logo=github&style=flat-square" alt="since"/>
 </p>
 
 <p align="center">
@@ -104,9 +85,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=lie-jiu&theme=radical&no-frame=true&row=1&column=7&margin-w=4&margin-h=4" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=lie-jiu&theme=flat&no-frame=true&row=1&column=7&margin-w=4&margin-h=4" />
-    <img alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=lie-jiu&theme=flat&no-frame=true&row=1&column=7&margin-w=4&margin-h=4" width="98%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/FE428E/lie-jiu" />
+    <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/2ea44f/lie-jiu" />
+    <img alt="Contribution calendar" src="https://ghchart.rshah.org/FE428E/lie-jiu" width="98%"/>
   </picture>
 </p>
 

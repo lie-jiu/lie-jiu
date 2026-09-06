@@ -10,7 +10,7 @@
 
 ## 🥃 关于我
 
-- 🏆 [OpenList](https://github.com/OpenListTeam/OpenList-Worker) 社区贡献者：PR 已被合并
+- 🏆 [OpenListTeam](https://github.com/OpenListTeam) 组织成员
 - 🔭 目前在做 **WeKit 已读追踪** 与 **死了吗 SiLeMa**（Dead Man's Switch）
 - ☁️ 偏爱 Serverless 与边缘部署：Cloudflare Workers / EdgeOne
 - 🔧 也造过一些校园小工具：电费查询、校园网登录、导航页

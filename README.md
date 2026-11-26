@@ -11,7 +11,7 @@
 ## 🥃 关于我
 
 - 🏆 <a href="https://github.com/OpenListTeam"><img src="https://avatars.githubusercontent.com/u/215780325?s=48&v=4" width="22" height="22" alt="OpenListTeam"/> <b>OpenListTeam</b></a> 组织成员
-- 🔭 目前在做 **WeKit 已读追踪** 与 **死了吗 SiLeMa**（Dead Man's Switch）
+- 🔭 开源项目：**WeKit 已读追踪** 与 **死了吗 SiLeMa**（Dead Man's Switch）
 - ☁️ 偏爱 Serverless 与边缘部署：Cloudflare Workers / EdgeOne
 - 🔧 也造过一些校园小工具：电费查询、校园网登录、导航页
 - 🌱 今年目标：少囤 idea，多写代码
@@ -60,7 +60,7 @@
 
 | 项目 | 简介 |
 |------|------|
-| [**WeKit 已读追踪**](https://github.com/lie-jiu/wekit-read-receipts-server) | 微信读书已读回执服务端 · TypeScript · 活跃开发中 |
+| [**WeKit 已读追踪**](https://github.com/lie-jiu/wekit-read-receipts-server) | 微信读书已读回执服务端 · TypeScript |
 | [**死了吗 SiLeMa**](https://github.com/lie-jiu/silema) | Dead Man's Switch 打卡与通知系统 · 跑在 Cloudflare 上 |
 | [**FFmpegHub**](https://github.com/lie-jiu/FFmpegHub) | FFmpeg Web UI · 轻量级媒体处理工具 |
 
